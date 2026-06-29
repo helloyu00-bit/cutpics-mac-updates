@@ -1,9 +1,9 @@
 {
-  "version": "1.2.0",
-  "build": 8,
+  "version": "1.2.1",
+  "build": 9,
   "minimumSystemVersion": "14.0",
-  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases",
-  "releaseNotes": "当前暂无新版本。",
-  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases",
-  "publishedAt": "2026-06-30T10:00:00+08:00"
+  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/v1.2.1/Cutpics-Mac-1.2.1.zip",
+  "releaseNotes": "支持在 Mac 设置页调整标签顺序。",
+  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/tag/v1.2.1",
+  "publishedAt": "2026-06-30T02:40:00+08:00"
 }
