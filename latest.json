@@ -1,0 +1,9 @@
+{
+  "version": "1.2.1",
+  "build": 9,
+  "minimumSystemVersion": "14.0",
+  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/latest",
+  "releaseNotes": "测试 Cutpics Mac 更新触达。",
+  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases",
+  "publishedAt": "2026-06-30T10:00:00+08:00"
+}
