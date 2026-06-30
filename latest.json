@@ -1,9 +1,9 @@
 {
-  "version": "1.2.1",
-  "build": 9,
+  "version": "1.2.2",
+  "build": 10,
   "minimumSystemVersion": "14.0",
-  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/v1.2.1/Cutpics-Mac-1.2.1.zip",
-  "releaseNotes": "支持在 Mac 设置页调整标签顺序。",
-  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/tag/v1.2.1",
-  "publishedAt": "2026-06-30T02:40:00+08:00"
+  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/v1.2.2/Cutpics-Mac-1.2.2.zip",
+  "releaseNotes": "快速记录支持预览和编辑复制内容；面板会贴近鼠标停留在第一个标签附近。",
+  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/tag/v1.2.2",
+  "publishedAt": "2026-06-30T11:03:00+08:00"
 }
