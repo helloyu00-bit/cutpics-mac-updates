@@ -1,9 +1,9 @@
 {
-  "version": "1.2.2",
-  "build": 10,
+  "version": "1.2.3",
+  "build": 11,
   "minimumSystemVersion": "14.0",
-  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/v1.2.2/Cutpics-Mac-1.2.2.zip",
-  "releaseNotes": "快速记录支持预览和编辑复制内容；面板会贴近鼠标停留在第一个标签附近。",
-  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/tag/v1.2.2",
-  "publishedAt": "2026-06-30T11:03:00+08:00"
+  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/v1.2.3/Cutpics-Mac-1.2.3.zip",
+  "releaseNotes": "快速记录支持紧凑多图预览、图片查看与删除；没有新复制内容时可直接空白手记，旧剪贴板可手动载入。",
+  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/tag/v1.2.3",
+  "publishedAt": "2026-07-01T11:45:00+08:00"
 }
