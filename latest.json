@@ -1,9 +1,9 @@
 {
-  "version": "1.2.4",
-  "build": 12,
+  "version": "1.2.5",
+  "build": 13,
   "minimumSystemVersion": "14.0",
-  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/v1.2.4/Cutpics-Mac-1.2.4.pkg",
-  "releaseNotes": "快速记录面板工具按钮更清晰，鼠标移上立即显示提示；新增固定面板，状态栏下载和反馈入口更直观。",
-  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/tag/v1.2.4",
-  "publishedAt": "2026-07-02T00:32:00+08:00"
+  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/v1.2.5/Cutpics-Mac-1.2.5.pkg",
+  "releaseNotes": "更新体验改进，后续版本可在 App 内完成更新。",
+  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/tag/v1.2.5",
+  "publishedAt": "2026-07-03T12:02:36+08:00"
 }

@@ -4,5 +4,18 @@
     <title>Cutpics Mac Updates</title>
     <link>https://cutpics.h5hub.xyz</link>
     <description>Cutpics for Mac update feed</description>
+    <item>
+      <title>Cutpics Mac 1.2.5</title>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[更新体验改进，后续版本可在 App 内完成更新。]]></description>
+      <pubDate>Fri, 03 Jul 2026 11:40:36 +0800</pubDate>
+      <enclosure
+        url="https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/v1.2.5/Cutpics-Mac-1.2.5.zip"
+        sparkle:edSignature="CWf3hsfCS8LJaGBo0e4+VDZYAkeOAgSwn/1lQENmF455rlDn5+lGTnTxJ4rpGL+qKqedcNGMInJMbElORcV8CA=="
+        length="4217938"
+        type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
