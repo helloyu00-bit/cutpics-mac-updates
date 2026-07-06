@@ -10,11 +10,11 @@
       <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>超轻量 Markdown 文档查看器。</li><li>可选择 Cutpics 打开 Markdown 文档。</li><li>支持轻量编辑并保存到原文件。</li><li>选择标签即可导入 Obsidian。</li><li>其他体验优化。</li></ul>]]></description>
-      <pubDate>Mon, 06 Jul 2026 09:35:46 +0800</pubDate>
+      <pubDate>Mon, 06 Jul 2026 14:37:23 +0800</pubDate>
       <enclosure
         url="https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.3.0/Cutpics-Mac-1.3.0.zip"
-        sparkle:edSignature="ECvrg9AJlspKOnj8eLsIECUKwqE4cTd10rs/T06HcBlc2WwJ23MJ0T0cIG27LEIZzZVo4TpMam7NRwD1OOPuBA=="
-        length="4375268"
+        sparkle:edSignature="9uJFrv8kLJxa1Z/igDgxd1Eg4AEHBeIRLJo7WRT8JtM6IthVIlT4IkRaIBp0K5y+tb9kWuNV+6T1ixsHKIXMAw=="
+        length="4365425"
         type="application/octet-stream" />
     </item>
   </channel>
