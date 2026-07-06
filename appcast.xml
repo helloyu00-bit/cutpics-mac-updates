@@ -5,16 +5,16 @@
     <link>https://cutpics.h5hub.xyz</link>
     <description>Cutpics for Mac update feed</description>
     <item>
-      <title>Cutpics Mac 1.3.0</title>
-      <sparkle:version>14</sparkle:version>
-      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <title>Cutpics Mac 1.3.1</title>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>超轻量 Markdown 文档查看器。</li><li>可选择 Cutpics 打开 Markdown 文档。</li><li>支持轻量编辑并保存到原文件。</li><li>选择标签即可导入 Obsidian。</li><li>其他体验优化。</li></ul>]]></description>
-      <pubDate>Mon, 06 Jul 2026 14:37:23 +0800</pubDate>
+      <description><![CDATA[<ul><li>可直接打开本地 Markdown 文档。</li><li>支持轻量编辑并保存到原文件。</li><li>选择标签即可导入 Obsidian。</li><li>修复 1.3.0 版本安装后无法运行的问题。</li><li>感谢第一时间尝试 1.3.0 并反馈问题的用户。</li><li>其他体验稳定性优化。</li></ul>]]></description>
+      <pubDate>Mon, 06 Jul 2026 22:08:16 +0800</pubDate>
       <enclosure
-        url="https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.3.0/Cutpics-Mac-1.3.0.zip"
-        sparkle:edSignature="9uJFrv8kLJxa1Z/igDgxd1Eg4AEHBeIRLJo7WRT8JtM6IthVIlT4IkRaIBp0K5y+tb9kWuNV+6T1ixsHKIXMAw=="
-        length="4365425"
+        url="https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.3.1/Cutpics-Mac-1.3.1.zip"
+        sparkle:edSignature="BYHl4k8m4VkdPnJB3N0fjvDm+OSXxKjuN3ILnUOEjNjbViy+OPdWqmHLsUTNPA3PgXsii9xFukfjZ5u9JySOAw=="
+        length="4366667"
         type="application/octet-stream" />
     </item>
   </channel>
