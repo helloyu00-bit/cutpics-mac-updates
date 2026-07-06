@@ -1,9 +1,9 @@
 {
-  "version": "1.2.5",
-  "build": 13,
+  "version": "1.3.0",
+  "build": 14,
   "minimumSystemVersion": "14.0",
-  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/v1.2.5/Cutpics-Mac-1.2.5.pkg",
-  "releaseNotes": "更新体验改进，后续版本可在 App 内完成更新。",
-  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/tag/v1.2.5",
-  "publishedAt": "2026-07-03T12:02:36+08:00"
+  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.3.0/Cutpics-Mac-1.3.0.pkg",
+  "releaseNotes": "超轻量 Markdown 文档查看器；可选择 Cutpics 打开 Markdown 文档；支持轻量编辑并保存到原文件；选择标签即可导入 Obsidian；其他体验优化。",
+  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/tag/mac/v1.3.0",
+  "publishedAt": "2026-07-06T09:41:13+08:00"
 }
