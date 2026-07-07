@@ -12,7 +12,7 @@
       <description><![CDATA[<ul><li>修复部分设备安装后无法打开的问题。</li><li>可直接打开本地 Markdown 文档。</li><li>支持轻量编辑并保存到原文件。</li><li>选择标签即可导入 Obsidian。</li><li>其他体验稳定性优化。</li></ul>]]></description>
       <pubDate>Tue, 07 Jul 2026 15:18:27 +0800</pubDate>
       <enclosure
-        url="https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.3.1/Cutpics-Mac-1.3.1.zip"
+        url="https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.3.1/Cutpics-Mac-1.3.1-sparkle.zip"
         sparkle:edSignature="aC4k72CFn+wyl+imLOq52ALXyBm+PFsytEDMQHRgxRzUQaITLX9GQwBT8vBmIs1iRHHYQPBthjsPcUS2TbmXCQ=="
         length="4366392"
         type="application/octet-stream" />
