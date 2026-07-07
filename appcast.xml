@@ -9,7 +9,7 @@
       <sparkle:version>17</sparkle:version>
       <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>首次设置和快捷键引导更清楚，未设置笔记存储位置时会直接提示下一步。</li><li>辅助功能授权增加可执行引导，找不到 Cutpics 时可从应用程序里添加。</li><li>Markdown 笔记查看恢复页面层次，空白区域可拖动窗口。</li><li>继续优化笔记打开、最近记录和保存体验。</li></ul>]]></description>
+      <description><![CDATA[<ul><li>选中内容、图文片段或截图后按 Command+C 两次，快速保存成笔记。</li><li>没有现成内容时，也可以当成桌面便签，随时打开、即时录入。</li><li>一键打开最近记录，方便回看刚保存的笔记。</li><li>内置超轻量 Markdown 阅读器和编辑器，可查看、轻改本地笔记。</li><li>支持普通模式和回看模式，既能单条记录，也能按主题连续追加。</li><li>可把笔记直接存进 Obsidian 仓库，交给 Obsidian 继续管理和整理。</li></ul>]]></description>
       <pubDate>Wed, 08 Jul 2026 01:30:00 +0800</pubDate>
       <enclosure
         url="https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.4.1/Cutpics-Mac-1.4.1.zip"

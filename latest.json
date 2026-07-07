@@ -3,7 +3,7 @@
   "build": 17,
   "minimumSystemVersion": "14.0",
   "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.4.1/Cutpics-Mac-1.4.1.pkg",
-  "releaseNotes": "首次设置和快捷键引导更清楚；辅助功能授权增加可执行引导；Markdown 笔记查看恢复页面层次，空白区域可拖动窗口；继续优化笔记打开、最近记录和保存体验。",
+  "releaseNotes": "选中内容、图文片段或截图后按 Command+C 两次快速保存成笔记；可当成桌面便签即时录入；一键打开最近记录；内置超轻量 Markdown 阅读器和编辑器；支持普通模式和回看模式；可把笔记直接存进 Obsidian 仓库，交给 Obsidian 继续管理和整理。",
   "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/tag/mac/v1.4.1",
   "publishedAt": "2026-07-08T01:30:00+08:00"
 }
