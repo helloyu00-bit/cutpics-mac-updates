@@ -1,9 +1,9 @@
 {
-  "version": "1.4.1",
-  "build": 17,
+  "version": "1.5.2",
+  "build": 19,
   "minimumSystemVersion": "14.0",
-  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.4.1/Cutpics-Mac-1.4.1.pkg",
-  "releaseNotes": "选中内容、图文片段或截图后按 Command+C 两次快速保存成笔记；可当成桌面便签即时录入；一键打开最近记录；内置超轻量 Markdown 阅读器和编辑器；支持普通模式和回看模式；可把笔记直接存进 Obsidian 仓库，交给 Obsidian 继续管理和整理。",
-  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/tag/mac/v1.4.1",
-  "publishedAt": "2026-07-08T01:30:00+08:00"
+  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.2/Cutpics-Mac-1.5.2.pkg",
+  "releaseNotes": "Cmd+C+C 快速记录更稳定；Markdown 笔记查看窗口更轻量；保存位置授权和休眠唤醒恢复更可靠；默认连续追加到同一类笔记；继续支持把笔记存进 Obsidian 仓库后续管理。",
+  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/tag/mac/v1.5.2",
+  "publishedAt": "2026-07-09T15:40:00+08:00"
 }

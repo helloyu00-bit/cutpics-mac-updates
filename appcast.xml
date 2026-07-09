@@ -5,16 +5,16 @@
     <link>https://cutpics.h5hub.xyz</link>
     <description>Cutpics for Mac update feed</description>
     <item>
-      <title>Cutpics Mac 1.4.1</title>
-      <sparkle:version>17</sparkle:version>
-      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <title>Cutpics Mac 1.5.2</title>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>选中内容、图文片段或截图后按 Command+C 两次，快速保存成笔记。</li><li>没有现成内容时，也可以当成桌面便签，随时打开、即时录入。</li><li>一键打开最近记录，方便回看刚保存的笔记。</li><li>内置超轻量 Markdown 阅读器和编辑器，可查看、轻改本地笔记。</li><li>支持普通模式和回看模式，既能单条记录，也能按主题连续追加。</li><li>可把笔记直接存进 Obsidian 仓库，交给 Obsidian 继续管理和整理。</li></ul>]]></description>
-      <pubDate>Wed, 08 Jul 2026 01:30:00 +0800</pubDate>
+      <description><![CDATA[<ul><li>复制内容后按 Cmd+C+C，快速打开新的记录面板。</li><li>默认连续追加到同一类笔记，适合日常随记、Todo、灵感和项目记录。</li><li>Markdown 笔记查看窗口更轻量，减少重复标题和多余留白。</li><li>可直接查看和轻量编辑本地 Markdown 笔记。</li><li>已经在用 Obsidian 的用户，可以继续把笔记存进 Obsidian 仓库，由 Obsidian 后续管理。</li><li>修复保存位置授权、休眠唤醒恢复和安装签名相关稳定性问题。</li></ul>]]></description>
+      <pubDate>Thu, 09 Jul 2026 15:30:29 +0800</pubDate>
       <enclosure
-        url="https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.4.1/Cutpics-Mac-1.4.1.zip"
-        sparkle:edSignature="1QrKVrtks+Rlv5AOyXEiEVyLot2Fw8NNKKsjloQdBwj3FqiCuPn7J9TJy6HC6IxydqgdQ5fLdyy+/rjR+exwCA=="
-        length="4427380"
+        url="https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.2/Cutpics-Mac-1.5.2.zip"
+        sparkle:edSignature="R055qwXNFXifAZQ7Xi55Ad1h9a1lS2fPVC1bPRgdiZkuewRZVpvNnKqkKLhUJzorwu8walDJhkuYzvAT0m5JBw=="
+        length="4539310"
         type="application/octet-stream" />
     </item>
   </channel>
