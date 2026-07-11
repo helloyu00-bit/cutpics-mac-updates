@@ -1,9 +1,9 @@
 {
-  "version": "1.5.2",
-  "build": 19,
+  "version": "1.5.3",
+  "build": 24,
   "minimumSystemVersion": "14.0",
-  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.2/Cutpics-Mac-1.5.2.pkg",
-  "releaseNotes": "Cmd+C+C 快速记录更稳定；Markdown 笔记查看窗口更轻量；保存位置授权和休眠唤醒恢复更可靠；默认连续追加到同一类笔记；继续支持把笔记存进 Obsidian 仓库后续管理。",
-  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/tag/mac/v1.5.2",
-  "publishedAt": "2026-07-09T15:40:00+08:00"
+  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.3/Cutpics-Mac-1.5.3.pkg",
+  "releaseNotes": "Capture 与 Markdown 阅读面板更紧凑统一；每个保存类型都可随时切换连续追加或单条笔记；备用快捷键支持开关和自定义；首次设置与常用设置更精简；修复记录方式初始显示、保存类型默认误选和 Markdown 打开方式重复的问题。",
+  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/tag/mac/v1.5.3",
+  "publishedAt": "2026-07-11T18:04:29+08:00"
 }
