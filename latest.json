@@ -1,9 +1,9 @@
 {
-  "version": "1.5.3",
-  "build": 24,
+  "version": "1.5.4",
+  "build": 25,
   "minimumSystemVersion": "14.0",
-  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.3/Cutpics-Mac-1.5.3.pkg",
-  "releaseNotes": "Capture 与 Markdown 阅读面板更紧凑统一；每个保存类型都可随时切换连续追加或单条笔记；备用快捷键支持开关和自定义；首次设置与常用设置更精简；修复记录方式初始显示、保存类型默认误选和 Markdown 打开方式重复的问题。",
-  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/tag/mac/v1.5.3",
-  "publishedAt": "2026-07-11T18:04:29+08:00"
+  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.4/Cutpics-Mac-1.5.4.pkg",
+  "releaseNotes": "修复部分设备覆盖安装后无法打开 Cutpics 的问题；菜单栏图标暂时不可见时，快速记录仍保持可用；再次打开 Cutpics 会显示设置窗口。",
+  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/tag/mac/v1.5.4",
+  "publishedAt": "2026-07-13T15:00:00+08:00"
 }

@@ -5,16 +5,16 @@
     <link>https://cutpics.h5hub.xyz</link>
     <description>Cutpics for Mac update feed</description>
     <item>
-      <title>Cutpics Mac 1.5.3</title>
-      <sparkle:version>24</sparkle:version>
-      <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
+      <title>Cutpics Mac 1.5.4</title>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Capture 与 Markdown 阅读面板使用统一、紧凑的保存类型栏。</li><li>保存时可以随时切换连续追加或单条笔记。</li><li>备用快捷键支持开关和自定义。</li><li>首次设置与常用设置更精简，并更新 Mac App 与状态栏图标。</li><li>修复记录方式初始显示、保存类型默认误选和 Markdown 打开方式重复的问题。</li></ul>]]></description>
-      <pubDate>Sat, 11 Jul 2026 17:31:49 +0800</pubDate>
+      <description><![CDATA[<ul><li>修复部分设备覆盖安装后无法打开 Cutpics 的问题。</li><li>菜单栏图标暂时不可见时，快速记录仍保持可用。</li><li>再次打开 Cutpics 会显示设置窗口。</li></ul>]]></description>
+      <pubDate>Mon, 13 Jul 2026 14:44:32 +0800</pubDate>
       <enclosure
-        url="https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.3/Cutpics-Mac-1.5.3.zip"
-        sparkle:edSignature="undH72ykgXErAahmz0VdgtoTEQ6p6vzsyhoC9Cw2jDPdtU8wiXEI5iHH5jeQpTpTrU+/p2fLCfhi6v5+X3/3Ag=="
-        length="3343258"
+        url="https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.4/Cutpics-Mac-1.5.4.zip"
+        sparkle:edSignature="8vYUzCQVFbl3qqBl4Osu2d6a9tMF66XoH6+SzXSblzxKEQd8IG/QpdXQ6hikRc5n/5P1EKdDI37zRSynUG4fAA=="
+        length="3346930"
         type="application/octet-stream" />
     </item>
   </channel>
