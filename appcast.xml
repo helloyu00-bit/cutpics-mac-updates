@@ -5,16 +5,16 @@
     <link>https://cutpics.h5hub.xyz</link>
     <description>Cutpics for Mac update feed</description>
     <item>
-      <title>Cutpics Mac 1.5.15</title>
-      <sparkle:version>36</sparkle:version>
-      <sparkle:shortVersionString>1.5.15</sparkle:shortVersionString>
+      <title>Cutpics Mac 1.5.16</title>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>1.5.16</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>快捷记录与 Markdown 阅读页面采用统一、清晰的桌面层级。</li><li>让内容区保持专注，同时保存类型区更容易辨认。</li><li>窗口支持自由拉伸，钉在桌面更顺手。快试试右上角的「钉一下」</li><li>可以更方便地查看最近记录。也可以直接使用你习惯的软件打开 Markdown 笔记。</li></ul>]]></description>
-      <pubDate>Sun, 19 Jul 2026 11:54:19 +0800</pubDate>
+      <description><![CDATA[<ul><li>快捷记录与 Markdown 阅读页面采用统一、清晰的桌面层级。</li><li>让内容区保持专注，同时保存类型区更容易辨认。</li><li>窗口支持自由拉伸，钉在桌面更顺手。快试试右上角的「钉一下」。</li><li>可以更方便地查看最近记录。也可以直接使用你习惯的软件打开 Markdown 笔记。</li></ul>]]></description>
+      <pubDate>Sun, 19 Jul 2026 12:40:17 +0800</pubDate>
       <enclosure
-        url="https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.15/Cutpics-Mac-1.5.15.zip"
-        sparkle:edSignature="x3UyUX0IEfWWg9Q3DmF0sxYz7NlImoEOlH+aQCPJC0Cy/Uf3UXxe376ysaEGfD7p2FOGgqe4XYkuhp2OL+0eAw=="
-        length="3594145"
+        url="https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.16/Cutpics-Mac-1.5.16.zip"
+        sparkle:edSignature="W4YxIu5yx/F68F3QJNp+qdWj+ixVX/DzRyzyVC+Tj0pHJX0Fo6D6dyWxwlwHHtsdLFlgW0DK8BLMPXBWnfF0AA=="
+        length="3593765"
         type="application/octet-stream" />
     </item>
   </channel>
