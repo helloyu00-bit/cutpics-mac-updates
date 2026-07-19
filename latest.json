@@ -1,9 +1,9 @@
 {
-  "version": "1.5.4",
-  "build": 25,
+  "version": "1.5.15",
+  "build": 36,
   "minimumSystemVersion": "14.0",
-  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.4/Cutpics-Mac-1.5.4.pkg",
-  "releaseNotes": "修复部分设备覆盖安装后无法打开 Cutpics 的问题；菜单栏图标暂时不可见时，快速记录仍保持可用；再次打开 Cutpics 会显示设置窗口。",
-  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/tag/mac/v1.5.4",
-  "publishedAt": "2026-07-13T15:00:00+08:00"
+  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.15/Cutpics-Mac-1.5.15.pkg",
+  "releaseNotes": "体验和视觉优化，快捷记录和阅读，更清晰也更顺手。",
+  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/tag/mac/v1.5.15",
+  "publishedAt": "2026-07-19T12:00:00+08:00"
 }
