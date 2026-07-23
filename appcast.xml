@@ -5,16 +5,20 @@
     <link>https://cutpics.h5hub.xyz</link>
     <description>Cutpics for Mac update feed</description>
     <item>
-      <title>Cutpics Mac 1.5.16</title>
-      <sparkle:version>37</sparkle:version>
-      <sparkle:shortVersionString>1.5.16</sparkle:shortVersionString>
+      <title>Cutpics Mac 1.5.19</title>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>1.5.19</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>快捷记录与 Markdown 阅读页面采用统一、清晰的桌面层级。</li><li>让内容区保持专注，同时保存类型区更容易辨认。</li><li>窗口支持自由拉伸，钉在桌面更顺手。快试试右上角的「钉一下」。</li><li>可以更方便地查看最近记录。也可以直接使用你习惯的软件打开 Markdown 笔记。</li></ul>]]></description>
-      <pubDate>Sun, 19 Jul 2026 12:40:17 +0800</pubDate>
+      <link>https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.19/Cutpics-Mac-1.5.19.pkg</link>
+      <sparkle:informationalUpdate>
+        <sparkle:version>37</sparkle:version>
+      </sparkle:informationalUpdate>
+      <description><![CDATA[<ul><li>解决偶发保存失败和版本升级后保存失败的问题。</li><li>保存失败时会暂存当前内容，恢复保存目录后可以继续处理，避免内容丢失。</li><li>保存完成后，可以直接从最近笔记打开查看。</li><li>提升应用内更新的可靠性。</li></ul>]]></description>
+      <pubDate>Fri, 24 Jul 2026 01:31:10 +0800</pubDate>
       <enclosure
-        url="https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.16/Cutpics-Mac-1.5.16.zip"
-        sparkle:edSignature="W4YxIu5yx/F68F3QJNp+qdWj+ixVX/DzRyzyVC+Tj0pHJX0Fo6D6dyWxwlwHHtsdLFlgW0DK8BLMPXBWnfF0AA=="
-        length="3593765"
+        url="https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.19/Cutpics-Mac-1.5.19.zip"
+        sparkle:edSignature="+0Fw7z8LZi0pSFo71N0y/lZBaL+Rao+MTXIDsv2Yd+Yvk4iDFPOWZMtUouqpJH5in9Mpa07ycBVxrzRVNeD0Ag=="
+        length="3664189"
         type="application/octet-stream" />
     </item>
   </channel>

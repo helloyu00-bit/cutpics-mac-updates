@@ -1,9 +1,9 @@
 {
-  "version": "1.5.16",
-  "build": 37,
+  "version": "1.5.19",
+  "build": 40,
   "minimumSystemVersion": "14.0",
-  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.16/Cutpics-Mac-1.5.16.pkg",
-  "releaseNotes": "体验和视觉优化，快捷记录和阅读，更清晰也更顺手。",
-  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/tag/mac/v1.5.16",
-  "publishedAt": "2026-07-19T12:00:00+08:00"
+  "downloadURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.19/Cutpics-Mac-1.5.19.pkg",
+  "releaseNotes": "解决偶发保存失败和版本升级后保存失败的问题；保存失败时会暂存内容，避免文字和图片丢失；保存完成后，可以直接从最近笔记打开查看。",
+  "releaseNotesURL": "https://github.com/helloyu00-bit/cutpics-mac-updates/releases/tag/mac/v1.5.19",
+  "publishedAt": "2026-07-24T01:31:10+08:00"
 }
