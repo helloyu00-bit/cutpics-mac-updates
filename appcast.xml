@@ -5,20 +5,20 @@
     <link>https://cutpics.h5hub.xyz</link>
     <description>Cutpics for Mac update feed</description>
     <item>
-      <title>Cutpics Mac 1.5.19</title>
-      <sparkle:version>40</sparkle:version>
-      <sparkle:shortVersionString>1.5.19</sparkle:shortVersionString>
+      <title>Cutpics Mac 1.5.21</title>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>1.5.21</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <link>https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.19/Cutpics-Mac-1.5.19.pkg</link>
+      <link>https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.21/Cutpics-Mac-1.5.21.pkg</link>
       <sparkle:informationalUpdate>
         <sparkle:version>37</sparkle:version>
       </sparkle:informationalUpdate>
-      <description><![CDATA[<ul><li>解决偶发保存失败和版本升级后保存失败的问题。</li><li>保存失败时会暂存当前内容，恢复保存目录后可以继续处理，避免内容丢失。</li><li>保存完成后，可以直接从最近笔记打开查看。</li><li>提升应用内更新的可靠性。</li></ul>]]></description>
-      <pubDate>Fri, 24 Jul 2026 01:31:10 +0800</pubDate>
+      <description><![CDATA[<ul><li>修复长内容录入时，输入、换行和拼音选字可能出现的跳屏、空白或闪动问题。</li><li>输入位置保持稳定，已上屏内容不会因拼音选字而闪动。</li></ul>]]></description>
+      <pubDate>Mon, 24 Aug 2026 18:48:09 +0800</pubDate>
       <enclosure
-        url="https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.19/Cutpics-Mac-1.5.19.zip"
-        sparkle:edSignature="+0Fw7z8LZi0pSFo71N0y/lZBaL+Rao+MTXIDsv2Yd+Yvk4iDFPOWZMtUouqpJH5in9Mpa07ycBVxrzRVNeD0Ag=="
-        length="3664189"
+        url="https://github.com/helloyu00-bit/cutpics-mac-updates/releases/download/mac/v1.5.21/Cutpics-Mac-1.5.21.zip"
+        sparkle:edSignature="dAR4t1o+b+UKk6QZkfESDyrpxbW1ZkGi9D3snGVkOXE5IKC3BEEhbxpQVh5N+GZPQ/sCmWmOlMERpzfkkaTuCg=="
+        length="3675116"
         type="application/octet-stream" />
     </item>
   </channel>
